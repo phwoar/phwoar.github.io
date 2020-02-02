@@ -1,6 +1,6 @@
 CACHE MANIFEST 
-# PS-Phwoar! Host Menu v1.0 
-# Sat 12/07/2019-14:08:42.95 
+# PS-Phwoar! Host Menu v1.1 
+# 01/02/2020-23:23:33.19 
 
 index.html
 files\AppToUsb.bin
@@ -13,7 +13,8 @@ files\Database_Restore.bin
 files\Database_Restore_UNDO.bin
 files\DB_GS_Backup.bin
 files\DiscDump.bin
-files\Dumper.bin
+files\DumperMerge.bin
+files\DumperSplit.bin
 files\EnableVR.bin
 files\exploit.css
 files\exploit.html
@@ -98,5 +99,3 @@ files\img\henVR.svg
 files\img\linux.svg
 files\img\PopUp.png
 files\img\SubBG.jpg
-files\img\WebRTE.svg
-files\img\WebRTE2.svg

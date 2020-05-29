@@ -1,6 +1,6 @@
 CACHE MANIFEST 
-# PS-Phwoar! Host Menu v1.3 
-# 16/03/2020-22:46:02.85 
+# PS-Phwoar! Host Menu v1.1 
+# 28/05/2020-18:50:02.40 
 
 index.html
 files\AppToUsb.bin
@@ -52,6 +52,7 @@ files\Hen21.bin
 files\Hen211.bin
 files\Hen212.bin
 files\Hen213.bin
+files\Hen214.bin
 files\HenVR15.bin
 files\HenVR16.bin
 files\HenVR17.bin

@@ -6,6 +6,13 @@ html{}body{background-color:#1849A5;background:url("img/BG.jpg");background-size
 }
 .Icon2{background:url("img/01.png"),linear-gradient(180deg,#002887,#042A87,#001E63);background-size:100% 100%;background-repeat:no-repeat;cursor:none;
 }
+#AutoHenInfo{
+position:absolute;bottom:10px;left:15px;font-size:18px;font-weight:bold;display:inline-block;z-index:1;
+}
+#L2BUTTON{
+display:inline-block;vertical-align:middle;height:20px;width:25px;margin-right:6px;
+background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsTAAALEwEAmpwYAAAABGdBTUEAALGOfPtRkwAAACBjSFJNAAB6JQAAgIMAAPn/AACA6QAAdTAAAOpgAAA6mAAAF2+SX8VGAAACrElEQVR42mL4//8/Az586dIl/gsXTgecO3dy67mzxz+fPX30L5B+cOnc6XagnDq6eoAAwmvYzZs31a5dO3fo2pVzP4H4/5VLZ+H4+rUL/65fO/fo+vVLUch6AAIIp2H371/Tu3/7+t27d6//v3n9yv8rQAMvAQ2C4WvXLvy/e/vaf6D8y9u3L5nB9AEEEFbDXr9+Lfns2YNrz548+H/75jWwZmz45s0r/589uf8fqPYATC9AAGEY9uDBA67Xr19ufP36xf8HD+7+vw10BT78BGjp27cvgfiFE0g/QABhGPjt23uvL18+fXv//vX/R4/ugg3Fh4Gu+//ly0cgfr8YpB8ggNANZP3z99fJP39+/H/58sn/Fy8eEcQgdb9+ffv/9++PC0D9ggABhG5gCBD/+/HjC9QbmBjk6u3bN/8/d+40yJtgsb9/fwG1/X/y//8fVYAAQjLsBTuQ3gOSOXRo338GBob/FRUlIK/A8caN68DiMJyUFAcW////L0jbFyA2BQggZNdpAPELkMyBA3vAGoqKisDeAeFv3z795+TkBIuvWLH0v4WFGZgNCj8o+AfErgABhGxgEkzm8OEDcBcCvQHGf/58+z9xYu//KVMmgg23t7cDqwGFNxJIAQggZAMPwkRPnz4OVlxdXfkfHXwBGgZzXVlZCbp0HkAAwQyThzoZDC5cOgfW0NhYj6L6F9A1svKyuAwDgQKAAIIZiCJ7/fo1sKbo6Oj/Fy6cA+Obt6//d3V1BYtXVlf8f/LsCRijGwgQQOC0B8T7kUUfPLqPEpv4MLqBAAEE8+49dJkr166g4Nt3b/+/e//2/2vAggIZoxsIEEAgAy2B+Nt/6oACgAACGZjyn3qgACCAQAbGQhMbpeA3EIcCBBDIQGEgXoucbMgAP4F4IhDzAQQYAFcNOLFH4rc1AAAAAElFTkSuQmCC') no-repeat center center;
+}
 #InfoButton{
 position:absolute;bottom:10px;right:15px;font-size:18px;font-weight:bold;display:inline-block;z-index:1;
 }
